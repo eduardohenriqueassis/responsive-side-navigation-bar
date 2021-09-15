@@ -8,7 +8,7 @@ I just made a little change in btn when active, also using Javascript.
 
 -----
 
-#Menu Lateral de Navegação
+# Menu Lateral de Navegação
 
 Menu lateral responsivo de navegação usando HTML, CSS e Javascript.
 
